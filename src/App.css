@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eee4f3;
+  height: 100vh;
+}
+
+.counter{
+  width: 500px;
+  border: 5px solid #aa00ff;
+  border-radius: 5px;
+  height: 250px;
+}
+
+.settings-counter{
+  width: 500px;
+  border: 5px solid #aa00ff;
+  border-radius: 5px;
+  margin-right: 20px;
+  height: 250px;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+

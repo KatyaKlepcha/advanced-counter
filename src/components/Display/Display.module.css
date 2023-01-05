@@ -1,0 +1,24 @@
+.wrapper {
+    background-color: #aa00ff;
+    margin: 20px;
+    border-radius: 5px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.red {
+    color: red;
+    font-size: 42px;
+}
+
+.count {
+    color: #fff;
+    font-size: 38px;
+}
